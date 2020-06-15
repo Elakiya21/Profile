@@ -155,7 +155,7 @@ margin-top: 50px;
 	}
 }
 
-#part2 h3,#part4 h3,#ins h3,#interests h3,#contact h3{
+#part2 h3,#part4 h3,#ins h3,#contact h3{
 	text-align: center;
 color: white;
 font-weight: bold;
@@ -163,8 +163,15 @@ margin-top: 100px;
 margin-bottom: 50px;
 
 }
+#interests h3{
+	margin-top: 150px;
+		text-align: center;
+color: white;
+font-weight: bold;
+margin-bottom: 60px;
+}
 .panel-footer{
-margin-top: 100px;
+margin-top: 200px;
 }
 .panel-footer h3{
 text-align: center;
